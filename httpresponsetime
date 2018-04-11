@@ -36,7 +36,7 @@ config  =  {
                     "type" : 'GAUGE',
                     "min" : '-1',
                     "max" : '2000',
-                    "draw" : 'LINE2',
+                    "draw" : 'LINE1',
                     "info" : 'Time (in milliseconds) for response',
                     "warning": "0:1500",
                     "critical": "0:2000",
